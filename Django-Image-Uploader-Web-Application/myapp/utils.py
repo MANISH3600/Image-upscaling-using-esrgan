@@ -12,8 +12,8 @@ def enhance_image(image):
         print("1")
         # Preprocessing: Resize the image if needed
         with Image.open(image) as img:
-            img = img.resize((512, 512))
-            
+
+            print(img.mode)
             # Convert the image to RGB mode if it's in RGBA mode
             if img.mode == 'RGBA':
                 img = img.convert('RGB')
