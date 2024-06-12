@@ -7,3 +7,12 @@ lOGIN PAGE
 
 INPUT IMAGE 
 ![input](https://github.com/MANISH3600/Image-upscaling-using-esrgan/assets/141218115/ae4990e5-179d-49c5-8f58-05f3a1bd66b7)
+
+=
+
+OUTPUT IMAGE
+![output](https://github.com/MANISH3600/Image-upscaling-using-esrgan/assets/141218115/de5e0696-9d20-4065-a257-1942676d1a15)
+
+HOMEPAGE
+
+![homepage](https://github.com/MANISH3600/Image-upscaling-using-esrgan/assets/141218115/c6742ca9-2bf1-4b11-a776-6f48dc22335f)
